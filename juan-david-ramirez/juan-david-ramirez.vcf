@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ramírez V;Juan David;;;
+FN:Juan David Ramírez V
+ORG:Grupo ilao
+TITLE:Head of Sales
+TEL;TYPE=CELL,VOICE:+573108095451
+EMAIL;TYPE=INTERNET,WORK:juan.ramirez@grupoilao.com
+URL;TYPE=WORK:https://grupoilao.com
+URL:https://www.linkedin.com/in/juandavidramirezv/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/juandavidramirezv/
+ADR;TYPE=WORK:;Torre A Oficina 503-504;Carrera 10 # 97A-13;Bogotá;;;Colombia
+NOTE:Met at UNIBA Worldwide Conference\, Brussels
+END:VCARD
